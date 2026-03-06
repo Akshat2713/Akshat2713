@@ -22,14 +22,6 @@
 
 ---
 
-### 📊 GitHub Insights
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Akshat2713&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats card" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat2713&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages card" />
-</p>
-
----
-
 ### 📫 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/akshat-kumar-2974b7256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-kumar-2974b7256" height="30" width="40" /></a>
